@@ -12,7 +12,7 @@ Use this png for design [Real Estate](https://dribbble.com/shots/16922863-Real-E
  - Tailwind CSS
 
 ## Image
-![alt text](https://github.com/BhavikTrambadiya/Brisa-XD-or-Figma-to-HTML-CSS/blob/master/image.png?raw=true)
+![alt text](https://github.com/BhavikTrambadiya/EstateLand-XD-or-Figma-to-HTML-CSS/blob/master/image.png?raw=true)
 
 # More examples 
 [GitHub Profile](https://github.com/BhavikTrambadiya)
