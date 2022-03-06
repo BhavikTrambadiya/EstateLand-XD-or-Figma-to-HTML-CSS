@@ -2,6 +2,10 @@
 
 This is the example of the xd, Figma, and png to HTML CSS.
 
+## Preview
+
+[EstateLAnd](https://estateland-bhaviktrambadiya.netlify.app/)
+
 ## Dribble
 
 Use this png for design [Real Estate](https://dribbble.com/shots/16922863-Real-Estate-Website) 
